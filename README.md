@@ -67,7 +67,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/LDouglasOT/morse_decoder.git
+  git clone https://github.com/LDouglasOT/morsecode.git
 ```
 
 ### Install
